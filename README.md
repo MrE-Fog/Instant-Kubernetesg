@@ -14,11 +14,7 @@ K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to K
 
 <br/><br/>
 
-<span align="center">
- 
-<img src="https://camo.githubusercontent.com/7dd96771dc55ff831b29aa1bd7024ad9fb18c983a16d579a078c90ca330b51ca/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e77656270" />
- 
-</span>
+<p align="center"><img src="https://camo.githubusercontent.com/7dd96771dc55ff831b29aa1bd7024ad9fb18c983a16d579a078c90ca330b51ca/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e77656270" /></p>
 
 <br/><br/>
 
