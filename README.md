@@ -1,4 +1,4 @@
-<img src="https://see.fontimg.com/api/renderfont4/zvgl/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjRjExMzEzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVz/avengero-regular.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br />
+<img src="https://see.fontimg.com/api/renderfont4/zvgl/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjRjExMzEzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVz/avengero-regular.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br />
 
 # How to Get a Multi-Node Cluster Instantly: 
 ### Deploy Your Kubernetes Cluster in Seconds
@@ -31,9 +31,9 @@ K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to K
  - [Credit](#Credits)
  - [Conclusion](#Conclusion)
 
-<br /><br /><br />
+<br /><br />
 
-<img id="Instant-Install" title="Instant Kubernetes Multi-Node Cluster" alt="Instant Kubernetes Multi-Node Cluster" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVzIE11bHRpLU5vZGUgQ2x1c3Rlcg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br />
+<img id="Instant-Install" title="Instant Kubernetes Multi-Node Cluster" alt="Instant Kubernetes Multi-Node Cluster" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVzIE11bHRpLU5vZGUgQ2x1c3Rlcg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br />
 
 Instant Kubernetes Cluster using curl ssh kubectl helm k3s k3sup rancher jetstack arkade
 
@@ -45,17 +45,17 @@ How to add additional worker nodes: workerNodes=( ["YOUR-WORKER1-SSH-IP"]="YOUR-
 Example: "wget -O - https://bit.ly/KubeInstall | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="192.168.0.1" workerNodes="( ['192.168.1.1']='root' ['192.168.2.1']='root')" bash"
 
 
-<br /><img id="Uninstall" title="Uninstall" alt="Uninstall" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VW5pbnN0YWxs/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Uninstall" title="Uninstall" alt="Uninstall" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VW5pbnN0YWxs/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 ```$ wget -O - "https://bit.ly/KubeRemove" | serverNode="YOUR-MASTER-NODE-IP" workerNodes="( ['YOUR-WORKER1-SSH-IP']='YOUR-WORKER1-SSH-USERNAME' ['YOUR-WORKER2-SSH-IP']='YOUR-WORKER2-SSH-USERNAME')" bash```
 
-<br /><img id="Demo" title="IDemo" alt="Demor" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RGVtbw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Demo" title="IDemo" alt="Demor" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RGVtbw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 <a href="https://www.veed.io/embed/d931db75-24a7-481c-aa48-48be191c61c9"><img src="https://i.ytimg.com/vi/TSo3ugxY3OI/maxresdefault.jpg" /></a>
 
 `Example: "wget -O - https://bit.ly/KubeInstall | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="192.168.0.1" workerNodes="( ['192.168.1.1']='root' ['192.168.2.1']='root')" bash"`
 
 
-<br /><img id="Cluster-Addons" title="Cluster Addons" alt="Cluster Addons" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2x1c3RlciBBZGRvbnM/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Cluster-Addons" title="Cluster Addons" alt="Cluster Addons" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q2x1c3RlciBBZGRvbnM/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 **Application**|**Installation**
 :-----:|:-----:
@@ -108,11 +108,11 @@ sealed-secrets|Install sealed-secrets
 tekton|Install Tekton pipelines and dashboard
 traefik2|Install traefik2
 
-<br /><img id="What-is-Kubernetes?" title="What is Kubernetes?" alt="What is Kubernetes?" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hhdCBpcyBLdWJlcm5ldGVz/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="What-is-Kubernetes?" title="What is Kubernetes?" alt="What is Kubernetes?" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hhdCBpcyBLdWJlcm5ldGVz/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 What is Kubernetes? The Kubernetes project was born in 2014 and Google released the alpha version in early 2015. Kubernetes was created to build an open-source system for automating deployment, scaling, and management of containerized applications. It utilizes pods to connect and manage these containers and is written in Go. The reason this is important is that Go, in a way, is as close to C++ as you can get. The two main projects behind it are a software container orchestrator named pod, developed by Google, and a container runtime called Tectonic, developed by Docker.
 
-<br /><img id="Manual-Installing-steps" title="Manual Install Steps" alt="Manual Install Steps" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TWFudWFsIEluc3RhbGwgU3RlcHM/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Manual-Installing-steps" title="Manual Install Steps" alt="Manual Install Steps" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/TWFudWFsIEluc3RhbGwgU3RlcHM/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 
 
@@ -129,7 +129,7 @@ kubectl create -f kubernetes.
 
 
 #Deploying Kubernetes using kubectl
-<br /><img id="Deploying-Kubernetes-using-kubectl" title="Deploying Kubernetes using kubectl" alt="Deploying Kubernetes using kubectl" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RGVwbG95aW5nIEt1YmVybmV0ZXMgdXNpbmcga3ViZWN0bA/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Deploying-Kubernetes-using-kubectl" title="Deploying Kubernetes using kubectl" alt="Deploying Kubernetes using kubectl" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RGVwbG95aW5nIEt1YmVybmV0ZXMgdXNpbmcga3ViZWN0bA/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 In order to setup a multi-node cluster, simply use the following command:
 
@@ -139,7 +139,7 @@ kubectl get nodes NAME STATUS AGE k1-10 Ready 5m k1-13 Ready 5m k2-10 Ready 5m k
 
 
 
-<br /><img id="What-happens-if-more-than-one-node-fails?" title="What happens if more than one node fails?" alt="What happens if more than one node fails?" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hhdCBoYXBwZW5zIGlmIG1vcmUgdGhhbiBvbmUgbm9kZSBmYWlscz8/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="What-happens-if-more-than-one-node-fails?" title="What happens if more than one node fails?" alt="What happens if more than one node fails?" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hhdCBoYXBwZW5zIGlmIG1vcmUgdGhhbiBvbmUgbm9kZSBmYWlscz8/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 Kubectl runs a 'batch job' in a separate Kubernetes node, and kills any unavailable pods with a timeout. The nodes will be automatically rebooted as well if a cluster leaves a multi-node-network configuration.
 
@@ -147,7 +147,7 @@ Kubectl runs a 'batch job' in a separate Kubernetes node, and kills any unavaila
 
 You can easily change the cluster nodes in the kubectl config file, by adding the nodeId to the manifest in cluster configuration file. This may not be necessary if you can specify the 'nodes' attribute in the resources inside your cluster but, if you are not using kubeadm, then you will need to add the nodes' name to your kube-system.
 
-<br /><img id="Helm-Application-Manager" title="Helm Kubernetes Applications Manage" alt="Helm Kubernetes Applications Manage" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbSBLdWJlcm5ldGVzIEFwcGxpY2F0aW9ucyBNYW5hZ2U/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Helm-Application-Manager" title="Helm Kubernetes Applications Manage" alt="Helm Kubernetes Applications Manage" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SGVsbSBLdWJlcm5ldGVzIEFwcGxpY2F0aW9ucyBNYW5hZ2U/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 Installation and usage of Kubernetes: Linux, Kubernetes and Beyond
 
@@ -187,11 +187,11 @@ or $ kubectl create -f fleet.yml
 
 Note: When creating a multi-node cluster in one go, use the default options for both K8s and Kubernetes.
 
-<br /><img id="K3s-Kubernetes-clusters" title="K3s Kubernetes clusters" alt="K3s Kubernetes clusters" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SzNzIEt1YmVybmV0ZXMgY2x1c3RlcnM/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="K3s-Kubernetes-clusters" title="K3s Kubernetes clusters" alt="K3s Kubernetes clusters" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SzNzIEt1YmVybmV0ZXMgY2x1c3RlcnM/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 Rapid Deployment and Scalability is the core of Docker Swarm, Kubernetes and Mesos, the three heavyweight container orchestration systems available today. And like many other popular open source projects, all three have had some difficult moments over the last year, as support and engagement with their respective users has eroded. In the age of Docker, Kubernetes and Mesos, if you're not building a 'Kubernetes app', you're building an 'App Container' that will die in a few minutes, because you're deploying just the pieces of the application. Some users see it as a no-win situation.
 
-<br /><img id="Rancher-Complete-Software-Stack" title="Rancher Complete Software Stack" alt="IRancher Complete Software Stack" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmFuY2hlciBDb21wbGV0ZSBTb2Z0d2FyZSBTdGFjaw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Rancher-Complete-Software-Stack" title="Rancher Complete Software Stack" alt="IRancher Complete Software Stack" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/UmFuY2hlciBDb21wbGV0ZSBTb2Z0d2FyZSBTdGFjaw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 We all want to work with the largest possible number of users. Containers allow us to organize applications into container clusters. We use Kubernetes and K8s to configure, run, and monitor our clusters. To be clear, Kubernetes and K8s are just one small piece of a bigger puzzle. There are many other tools that can be used to manage, scale, and secure your container-based application. These include docker, virt-manager, and vROPS, to name just a few.
 
@@ -199,10 +199,10 @@ We all want to work with the largest possible number of users. Containers allow 
 
 A simple way to deploy Kubernetes in your company is to use the right tool for the job.
 
-<br /><img id="Credits" title="Credits" alt="Credits" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3JlZGl0cw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Credits" title="Credits" alt="Credits" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3JlZGl0cw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 
 
-<br /><img id="Conclusion" title="Conclusion" alt="Conclusion" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q29uY2x1c2lvbg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br /><br /><br />
+<br /><img id="Conclusion" title="Conclusion" alt="Conclusion" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q29uY2x1c2lvbg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 Infrastructure automation is a term of the day, and Kubernetes is leading the way for infrastructure automation. Kubernetes is gaining popularity rapidly, and that's for a reason. It is flexible and adaptable. Since there's always a room for improvement, Kubernetes developers are constantly thinking about how to build a better system. However, if you are interested in the basics, you can download Kubernetes from the official website.
