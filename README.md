@@ -2,6 +2,8 @@
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lxjs3ANT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4r4dazpczja11xwwsmz9.png" />
 
+``` $ wget -O - "https://bit.ly/KubeInstall" | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="YOUR-MASTER-NODE-IP" workerNodes="( ['YOUR-WORKER1-SSH-IP']='YOUR-WORKER1-SSH-USERNAME' ['YOUR-WORKER2-SSH-IP']='YOUR-WORKER2-SSH-USERNAME')" bash ```
+
 # How to Get a Multi-Node Cluster Instantly: 
 ### Deploy Your Kubernetes Cluster in Seconds
 
