@@ -4,7 +4,15 @@
 ### Deploy Your Kubernetes Cluster in Seconds
 
 
-Instant Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.  using curl is used in command lines or scripts to transfer data, Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network, The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters, Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application, K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside, k3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
+Instant Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications, using curl which is used in command lines or scripts to transfer data.
+
+Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network, The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.
+
+Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application, K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside.
+
+K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
+
+<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp" />
 
 
 ## INDEX:
