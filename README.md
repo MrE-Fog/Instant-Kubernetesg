@@ -21,7 +21,8 @@ Example: "wget -O - https://bit.ly/KubeInstall | serverNode="192.168.0.1" worker
 
 ## Demo
 
-[![https://i.ytimg.com/vi/TSo3ugxY3OI/maxresdefault.jpg)](https://www.veed.io/embed/d931db75-24a7-481c-aa48-48be191c61c9)
+<a href="https://www.veed.io/embed/d931db75-24a7-481c-aa48-48be191c61c9"><img src="https://i.ytimg.com/vi/TSo3ugxY3OI/maxresdefault.jpg" /></a>
+
 
 ## Cluster Addons
 
