@@ -1,4 +1,4 @@
-<img src="https://see.fontimg.com/api/renderfont4/zvgl/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMEU1NUVBIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVz/avengero-regular.png" />
+<img src="https://camo.githubusercontent.com/0ab6a135d47e92ffcf60f4ac430c6629bf5b060c0779cc0cd0f71ed7a0d29031/68747470733a2f2f7365652e666f6e74696d672e636f6d2f6170692f72656e646572666f6e74342f7a76676c2f65794a79496a6f695a6e4d694c434a6f496a6f334f437769647949364d5441774d4377695a6e4d694f6a63344c434a6d5a324d694f69496a4d4555314e55564249697769596d646a496a6f6949305a47526b5a4752694973496e51694f6a46392f5357357a644746756443424c64574a6c636d356c6447567a2f6176656e6765726f2d726567756c61722e706e67" />
 
 # How to Get a Multi-Node Cluster Instantly: 
 ### Deploy Your Kubernetes Cluster in Seconds
@@ -12,7 +12,7 @@ Helm helps you manage Kubernetes applications — Helm Charts help you define, i
 
 K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
 
-<img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" />
+<img align="center" src="https://camo.githubusercontent.com/7dd96771dc55ff831b29aa1bd7024ad9fb18c983a16d579a078c90ca330b51ca/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e77656270" />
 
 
 ## INDEX:
