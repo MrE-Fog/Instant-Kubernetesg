@@ -4,6 +4,7 @@
 ### Deploy Your Kubernetes Cluster in Seconds
 
 
+<img align="right" width="9%" src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s" />
 Instant Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications, using curl which is used in command lines or scripts to transfer data.
 
 Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network, The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.
@@ -13,8 +14,7 @@ Helm helps you manage Kubernetes applications — Helm Charts help you define, i
 K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
 
 <br/><br/>
-
-<p align="center"><img src="https://camo.githubusercontent.com/7dd96771dc55ff831b29aa1bd7024ad9fb18c983a16d579a078c90ca330b51ca/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e77656270" /></p>
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 
 <br/><br/>
 
@@ -35,13 +35,13 @@ K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to K
  - [Conclusion](#Conclusion)
 
 # Instant Kubernetes Multi-Node Cluster
-
+<img align="right" width="9%" src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s" />
 Instant Kubernetes Cluster using curl ssh kubectl helm k3s k3sup rancher jetstack arkade
 
 ```$ wget -O - "https://bit.ly/KubeInstall" | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="YOUR-MASTER-NODE-IP" workerNodes="( ['YOUR-WORKER1-SSH-IP']='YOUR-WORKER1-SSH-USERNAME' ['YOUR-WORKER2-SSH-IP']='YOUR-WORKER2-SSH-USERNAME')" bash```
 
 How to add additional worker nodes: workerNodes=( ["YOUR-WORKER1-SSH-IP"]="YOUR-WORKER1-SSH-USERNAME" ["YOUR-WORKER2-SSH-IP"]="YOUR-WORKER2-SSH-USERNAME" ["YOUR-WORKER3-SSH-IP"]="YOUR-WORKER3-SSH-USERNAME" ["YOUR-WORKER4-SSH-IP"]="YOUR-WORKER4-SSH-USERNAME" .... etc)
-
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 Example: "wget -O - https://bit.ly/KubeInstall | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="192.168.0.1" workerNodes="( ['192.168.1.1']='root' ['192.168.2.1']='root')" bash"
 
 
@@ -118,7 +118,7 @@ What is Kubernetes? The Kubernetes project was born in 2014 and Google released 
 
 # Manual Install Steps
 
-
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 
 kubectl is a command-line tool for administering Kubernetes clusters. kubectl creates a new Kubernetes cluster by telling the kubernetes cluster manager how many nodes you want and a name for your cluster. In this example you are creating a cluster of two nodes. In the next step, you will do the same but you will create another cluster of three nodes. When the two cluster nodes are created, you will set the names of both the cluster nodes using the addNode method. You must specify the names of the node and the node type: kubectl create -f kubernetes.yaml
 
@@ -126,7 +126,7 @@ kubectl is a command-line tool for administering Kubernetes clusters. kubectl cr
 
 Add these nodes to the existing Kubernetes cluster (installing nodes)
 
-
+<img align="right" width="9%" src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s" />
 
 kubectl create -f kubernetes.
 
@@ -141,7 +141,7 @@ In order to setup a multi-node cluster, simply use the following command:
 
 kubectl get nodes NAME STATUS AGE k1-10 Ready 5m k1-13 Ready 5m k2-10 Ready 5m k2-13 Ready 5m k3-10 Ready 5m k3-13 Ready 5m
 
-
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 
 # What happens if more than one node fails?
 
@@ -156,7 +156,7 @@ You can easily change the cluster nodes in the kubectl config file, by adding th
 
 
 # Helm Kubernetes Applications Manage
-
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 
 Installation and usage of Kubernetes: Linux, Kubernetes and Beyond
 
@@ -180,7 +180,7 @@ or $ kubectl create -f handlers.yml
 
 $ kubectl create -f client-api.yml
 
-
+<img align="right" width="9%" src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s" />
 
 or $ kubectl create -f commands.yml
 
@@ -199,7 +199,7 @@ Note: When creating a multi-node cluster in one go, use the default options for 
 
 # K3s Kubernetes clusters
 
-
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 Rapid Deployment and Scalability is the core of Docker Swarm, Kubernetes and Mesos, the three heavyweight container orchestration systems available today. And like many other popular open source projects, all three have had some difficult moments over the last year, as support and engagement with their respective users has eroded. In the age of Docker, Kubernetes and Mesos, if you're not building a 'Kubernetes app', you're building an 'App Container' that will die in a few minutes, because you're deploying just the pieces of the application. Some users see it as a no-win situation.
 
 
@@ -209,7 +209,7 @@ Rapid Deployment and Scalability is the core of Docker Swarm, Kubernetes and Mes
 
 We all want to work with the largest possible number of users. Containers allow us to organize applications into container clusters. We use Kubernetes and K8s to configure, run, and monitor our clusters. To be clear, Kubernetes and K8s are just one small piece of a bigger puzzle. There are many other tools that can be used to manage, scale, and secure your container-based application. These include docker, virt-manager, and vROPS, to name just a few.
 
-
+<img align="right" width="9%" src="https://media4.giphy.com/media/5Lmn42BCOy99RaGRP7/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s" />
 
 A simple way to deploy Kubernetes in your company is to use the right tool for the job.
 
@@ -217,7 +217,7 @@ A simple way to deploy Kubernetes in your company is to use the right tool for t
 # Credits
 
 
-
+<img align="left" width="7%" src="https://media0.giphy.com/media/RxAdKu5nrs32vhKEUq/200w.webp?cid=ecf05e478gp1egjus4h5v00249hzs50lrcbi0zyc2ctnyw24&rid=200w.webp&ct=s"/>
 # Conclusion
 
 
