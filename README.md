@@ -201,14 +201,14 @@ A simple way to deploy Kubernetes in your company is to use the right tool for t
 
 <br /><img id="Credits" title="Credits" alt="Credits" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3JlZGl0cw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
-[Kubernetes](https://github.com/kubernetes/kubernetes): https://github.com/kubernetes/kubernetes
-[kubectl](https://github.com/kubernetes/kubectl): https://github.com/kubernetes/kubectl
-[helm](https://github.com/helm/helm): https://github.com/helm/helm
-[k3s](https://github.com/k3s-io/k3s): https://github.com/k3s-io/k3s
-[k3sup](https://github.com/alexellis/k3sup): https://github.com/alexellis/k3sup
-[rancher](https://github.com/rancher/rancher): https://github.com/rancher/rancher
-[jetstack](https://github.com/jetstack/jetstack-secure): https://github.com/jetstack/jetstack-secure
-[arkade](https://github.com/alexellis/arkade): https://github.com/alexellis/arkade
+ - [Kubernetes](https://github.com/kubernetes/kubernetes): https://github.com/kubernetes/kubernetes
+ - [kubectl](https://github.com/kubernetes/kubectl): https://github.com/kubernetes/kubectl
+ - [helm](https://github.com/helm/helm): https://github.com/helm/helm
+ - [k3s](https://github.com/k3s-io/k3s): https://github.com/k3s-io/k3s
+ - [k3sup](https://github.com/alexellis/k3sup): https://github.com/alexellis/k3sup
+ - [rancher](https://github.com/rancher/rancher): https://github.com/rancher/rancher
+ - [jetstack](https://github.com/jetstack/jetstack-secure): https://github.com/jetstack/jetstack-secure
+ - [arkade](https://github.com/alexellis/arkade): https://github.com/alexellis/arkade
 
 <br /><img id="Conclusion" title="Conclusion" alt="Conclusion" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q29uY2x1c2lvbg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
