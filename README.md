@@ -19,6 +19,10 @@ Example: "wget -O - https://bit.ly/KubeInstall | serverNode="192.168.0.1" worker
 
 ``
 
+## Demo
+
+<iframe src="https://www.veed.io/embed/d931db75-24a7-481c-aa48-48be191c61c9" width="744" height="504" frameborder="0" title="screen-capture" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 ## Cluster Addons
 
 **Application**|**Installation**
