@@ -36,19 +36,19 @@
 
 🅸🅽🆂🆃🅰🅽🆃 Kubernetes also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications, using curl which is used in command lines or scripts to transfer data.
 
-<p align="center"><br /><img width="75%" src="https://k3s.io/images/how-it-works-k3s.svg" /><br /></p>
+<p align="center"><br /><img width="25%" height="150px" src="https://i.morioh.com/210413/5d735d9b.webp" /> <img height="150px" width="25%" src="https://nimblehq.co/public/images/posts/provision-k3s-on-google-cloud-with-terraform-and-k3sup/provision-k3s-on-google-cloud.png" /> <img height="150px" width="25%" src="https://miro.medium.com/max/1400/1*dNihr1MXi75ktudZ7WWMLQ.png" /><br /></p>
 
 Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network, The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.
 
-<p align="center"><br /><img width="75%" src="https://learnk8s.io/a/d0e338e90d78e0c46beafb168ee12e32.png" /><br /></p>
+<p align="center"><br /><img width="25%" height="150px" src="https://learnk8s.io/a/d0e338e90d78e0c46beafb168ee12e32.png" /> <img height="150px" width="25%" src="https://miro.medium.com/max/1400/1*xFsO5VOqnoGR9hXR_WYkUg.png" /> <img height="150px" width="25%" src="http://www.techplayon.com/wp-content/uploads/2021/07/Kubectloperations.png" /><br /></p>
 
 Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application, K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside.
 
-<p align="center"><br /><img width="75%" src="https://banzaicloud.com/img/blog/chartservice/chart-repo-service.png" /><br /></p>
+<p align="center"><br /><img width="25%" src="https://banzaicloud.com/img/blog/chartservice/chart-repo-service.png" /> <img width="25%" src="https://techblog.cisco.com/blog/helm3-the-good-the-bad-and-the-ugly/helm.png" /> <img width="25%" src="https://boxboat.com/2018/09/19/helm-and-kubernetes-deployments/featured.png" /><br /></p>
 
 K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
 
-<p align="center"><br /><img width="75%" src="https://ma.ttias.be/content/ha-k3s-with-k3sup/raspberry.png" /><br /></p>
+<p align="center"><br /><img width="25%" src="https://ma.ttias.be/content/ha-k3s-with-k3sup/raspberry.png" /><img width="25%" src="https://blog.alexellis.io/content/images/2019/08/Screenshot-2019-08-29-at-10.49.02.png" /><img width="25%" src="https://miro.medium.com/max/1200/1*96mOrfBZjSWj2NCA7z6OJA.png" /><br /></p>
 
 ## INDEX:
 
@@ -152,7 +152,10 @@ sealed-secrets|Install sealed-secrets
 tekton|Install Tekton pipelines and dashboard
 traefik2|Install traefik2
 
-<p align="center"><br /><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIiVFI_hlT1iNy5qCrmC-m4R0YtMV6nN3hA&usqp=CAU" /><br /></p>
+
+<p align="center"><br /><img src="https://miro.medium.com/max/1318/1*u4wOvJ9mWp6hGRU1Mck6mA.png" /><br /></p>
+
+<p align="center"><br /><img src="https://cdn.thenewstack.io/media/2021/03/342aedc7-screen-shot-2021-03-16-at-9.18.35-am.png" /><br /></p>
 
 <br /><img id="What-is-Kubernetes?" title="What is Kubernetes?" alt="What is Kubernetes?" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hhdCBpcyBLdWJlcm5ldGVz/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
