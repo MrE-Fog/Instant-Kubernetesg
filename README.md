@@ -12,8 +12,11 @@ Helm helps you manage Kubernetes applications — Helm Charts help you define, i
 
 K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
 
+<br/><br/>
+<span align="center" >
 <img align="center" src="https://camo.githubusercontent.com/7dd96771dc55ff831b29aa1bd7024ad9fb18c983a16d579a078c90ca330b51ca/68747470733a2f2f692e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e77656270" />
-
+</span>
+<br/><br/>
 
 ## INDEX:
 
