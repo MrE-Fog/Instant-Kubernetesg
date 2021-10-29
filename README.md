@@ -1,5 +1,7 @@
 <img src="https://see.fontimg.com/api/renderfont4/zvgl/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjRjExMzEzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVz/avengero-regular.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br />
 
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lxjs3ANT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4r4dazpczja11xwwsmz9.png" />
+
 # How to Get a Multi-Node Cluster Instantly: 
 ### Deploy Your Kubernetes Cluster in Seconds
 
@@ -69,9 +71,6 @@ Helm helps you manage Kubernetes applications — Helm Charts help you define, i
 K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
 
 <p align="center"><br /><img width="25%" src="https://banzaicloud.com/img/blog/chartservice/chart-repo-service.png" /> <img width="25%" src="https://techblog.cisco.com/blog/helm3-the-good-the-bad-and-the-ugly/helm.png" /> <img width="25%" src="https://boxboat.com/2018/09/19/helm-and-kubernetes-deployments/featured.png" /><br /></p>
-
-<p align="center"><br /><img width="25%" src="https://ma.ttias.be/content/ha-k3s-with-k3sup/raspberry.png" /><img width="25%" src="https://blog.alexellis.io/content/images/2019/08/Screenshot-2019-08-29-at-10.49.02.png" /><img width="25%" src="https://miro.medium.com/max/1200/1*96mOrfBZjSWj2NCA7z6OJA.png" /><br /></p>
-
 
 <img id="Instant-Install" title="Instant Kubernetes Multi-Node Cluster" alt="Instant Kubernetes Multi-Node Cluster" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVzIE11bHRpLU5vZGUgQ2x1c3Rlcg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br /><br />
 
@@ -253,23 +252,10 @@ A simple way to deploy Kubernetes in your company is to use the right tool for t
 
 <br /><img id="Credits" title="Credits" alt="Credits" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q3JlZGl0cw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
- - [🄺🅄🄱🄴🅁🄽🄴🅃🄴🅂](https://github.com/kubernetes/kubernetes): https://github.com/kubernetes/kubernetes
-  <br /><img width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🄺🅄🄱🄴🄲🅃🄻](https://github.com/kubernetes/kubectl): https://github.com/kubernetes/kubectl
- <br /><img  width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🄷🄴🄻🄼](https://github.com/helm/helm): https://github.com/helm/helm
- <br /><img  width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🄺3🅂](https://github.com/k3s-io/k3s): https://github.com/k3s-io/k3s
- <br /><img  width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🄺3🅂🅄🄿](https://github.com/alexellis/k3sup): https://github.com/alexellis/k3sup
- <br /><img  width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🅁🄰🄽🄲🄷🄴🅁](https://github.com/rancher/rancher): https://github.com/rancher/rancher
- <br /><img  width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🄹🄴🅃🅂🅃🄰🄲🄺](https://github.com/jetstack/jetstack-secure): https://github.com/jetstack/jetstack-secure
- <br /><img width="50%"  src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
- - [🄰🅁🄺🄰🄳🄴](https://github.com/alexellis/arkade): https://github.com/alexellis/arkade
-<br /><img  width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/>
-
+<p align="center">
+ <a href=""><img width="50%" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"/></a> <a href="https://github.com/kubernetes/kubectl"><img  width="50%" src="https://cdn.educba.com/academy/wp-content/uploads/2020/05/Kubernetes-Kubectl.jpg"/></a> <a href="https://github.com/helm/helm"><img  width="50%" src="https://miro.medium.com/max/1024/1*WcNVAmQiqBsv0NyMgfbO3A.png"/></a> <a href="https://github.com/k3s-io/k3s"><img  width="50%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUVjhB5cCtuWXe0HONoUY6t7ck1oa4pjUKnQ&usqp=CAU"/></a>  <a href="https://github.com/alexellis/k3sup"><img  width="50%" src="https://repository-images.githubusercontent.com/202523140/bbde3480-dbca-11ea-8fb0-e84674e6469a"/></a>  <a href="https://github.com/rancher/rancher"><img  width="50%" src="https://boxboat.com/2019/08/15/getting-started-with-rancher/featured.jpg"/></a><a href="https://github.com/jetstack/jetstack-secure"><img width="50%"  src="https://blog.jetstack.io/blog/jetstack-secure/jetstack-secure-dark.png"/></a><a href="https://github.com/alexellis/arkade"><img  width="50%" src="https://arkade.games/wp-content/uploads/2020/08/Preview.jpg"/></a> 
+</p>
+ 
 <br /><img id="Conclusion" title="Conclusion" alt="Conclusion" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/Q29uY2x1c2lvbg/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 🅸🅽🅵🆁🅰🆂🆃🆁🆄🅲🆃🆄🆁🅴 Automation is a term of the day, and Kubernetes is leading the way for infrastructure automation. Kubernetes is gaining popularity rapidly, and that's for a reason. It is flexible and adaptable. Since there's always a room for improvement, Kubernetes developers are constantly thinking about how to build a better system. However, if you are interested in the basics, you can download Kubernetes from the official website.
