@@ -3,17 +3,52 @@
 # How to Get a Multi-Node Cluster Instantly: 
 ### Deploy Your Kubernetes Cluster in Seconds
 
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/c-role-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/c-role-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/cm-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/cm-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/crb-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/crb-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/crd-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/crd-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/cronjob-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/cronjob-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/deploy-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/deploy-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/ds-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/ds-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/ep-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/ep-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/group-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/group-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/hpa-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/hpa-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/ing-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/ing-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/job-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/job-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/limits-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/limits-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/netpol-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/netpol-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/ns-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/ns-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/pod-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/pod-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/psp-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/psp-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/pv-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/pv-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/pvc-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/pvc-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/quota-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/quota-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/rb-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/rb-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/role-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/role-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/rs-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/rs-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/sa-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/sa-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/sc-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/sc-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/secret-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/secret-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/sts-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/sts-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/svc-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/svc-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/user-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/user-128.png" /></span>
+<span  href="https://github.com/kubernetes/community/blob/master/icons/png/resources/labeled/vol-128.png"><img width="20px" src="https://github.com/kubernetes/community/raw/master/icons/png/resources/labeled/vol-128.png" /></span>
+
 🅸🅽🆂🆃🅰🅽🆃 Kubernetes also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications, using curl which is used in command lines or scripts to transfer data.
+
+<p align="center"><br /><img width="75%" src="https://k3s.io/images/how-it-works-k3s.svg" /><br /></p>
 
 Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network, The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.
 
+<p align="center"><br /><img width="75%" src="https://learnk8s.io/a/d0e338e90d78e0c46beafb168ee12e32.png" /><br /></p>
+
 Helm helps you manage Kubernetes applications — Helm Charts help you define, install, and upgrade even the most complex Kubernetes application, K3s is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside.
 
-<br />
+<p align="center"><br /><img width="75%" src="https://banzaicloud.com/img/blog/chartservice/chart-repo-service.png" /><br /></p>
 
 K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to KUBECONFIG with k3s on any local or remote VM, Rancher is a complete software stack for teams adopting containers, and arkade provides a portable marketplace 
 
-<br />
+<p align="center"><br /><img width="75%" src="https://ma.ttias.be/content/ha-k3s-with-k3sup/raspberry.png" /><br /></p>
 
 ## INDEX:
 
@@ -44,14 +79,18 @@ How to add additional worker nodes: workerNodes=( ["YOUR-WORKER1-SSH-IP"]="YOUR-
 
 Example: "wget -O - https://bit.ly/KubeInstall | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="192.168.0.1" workerNodes="( ['192.168.1.1']='root' ['192.168.2.1']='root')" bash"
 
+<p align="center"><br /><img width="75%" src="https://w7.pngwing.com/pngs/49/813/png-transparent-kubernetes-ci-cd-helmsman-docker-devops-proposal-angle-auto-part-plugin.png" /><br /></p>
+
 
 <br /><img id="Uninstall" title="Uninstall" alt="Uninstall" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/VW5pbnN0YWxs/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
-🆅🅸🅳🅴🅾 Demonstration and some example code.
-
 ```$ wget -O - "https://bit.ly/KubeRemove" | serverNode="YOUR-MASTER-NODE-IP" workerNodes="( ['YOUR-WORKER1-SSH-IP']='YOUR-WORKER1-SSH-USERNAME' ['YOUR-WORKER2-SSH-IP']='YOUR-WORKER2-SSH-USERNAME')" bash```
 
-<br /><img id="Demo" title="IDemo" alt="Demor" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RGVtbw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
+<p align="center"><br /><img width="75%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIiVFI_hlT1iNy5qCrmC-m4R0YtMV6nN3hA&usqp=CAU" /><br /></p>
+
+<br /><img id="Demo" title="Demo" alt="Demor" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/RGVtbw/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
+
+🆅🅸🅳🅴🅾 Demonstration and some example code.
 
 <a href="https://www.veed.io/embed/d931db75-24a7-481c-aa48-48be191c61c9"><img src="https://i.ytimg.com/vi/TSo3ugxY3OI/maxresdefault.jpg" /></a>
 
@@ -112,6 +151,8 @@ registry-creds|Install registry-creds
 sealed-secrets|Install sealed-secrets
 tekton|Install Tekton pipelines and dashboard
 traefik2|Install traefik2
+
+<p align="center"><br /><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIiVFI_hlT1iNy5qCrmC-m4R0YtMV6nN3hA&usqp=CAU" /><br /></p>
 
 <br /><img id="What-is-Kubernetes?" title="What is Kubernetes?" alt="What is Kubernetes?" src="https://see.fontimg.com/api/renderfont4/YolO/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjMTYxRkYxIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/V2hhdCBpcyBLdWJlcm5ldGVz/avengeance.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
