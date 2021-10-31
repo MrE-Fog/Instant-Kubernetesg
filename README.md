@@ -1,7 +1,7 @@
 <img src="https://see.fontimg.com/api/renderfont4/zvgl/eyJyIjoiZnMiLCJoIjo3OCwidyI6MTAwMCwiZnMiOjc4LCJmZ2MiOiIjRjExMzEzIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/SW5zdGFudCBLdWJlcm5ldGVz/avengero-regular.png" /><br /><img src="https://www.fg-a.com/lines/line_bar_10.gif" height="1px" width="100%" /><br />
 
 ### K3s Multi-Node Cluster - The FN Fast Way
-#### Rancher Dashboard with Helm and Arkade Package Managers on a K3S bare-metal multi-Cluster using k3sup Cluster
+#### Rancher Dashboard with Helm and Arkade Package Managers on a K3S bare-metal multi-Cluster using k3sup
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lxjs3ANT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4r4dazpczja11xwwsmz9.png" />
 
