@@ -5,7 +5,7 @@
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Lxjs3ANT--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/4r4dazpczja11xwwsmz9.png" />
 
-``` $ wget -O - "https://bit.ly/KubeInstall" | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="YOUR-MASTER-NODE-IP" workerNodes="( ['YOUR-WORKER1-SSH-IP']='YOUR-WORKER1-SSH-USERNAME' ['YOUR-WORKER2-SSH-IP']='YOUR-WORKER2-SSH-USERNAME')" bash ```
+``` sh <(curl -L https://bit.ly/KubeInstall || wget -O - https://bit.ly/KubeInstall) ```
 
 # How to Get a Multi-Node Cluster Instantly: 
 ### Deploy Your Kubernetes Cluster in Seconds
@@ -81,12 +81,9 @@ K3sup (said 'ketchup') ... k3sup is a light-weight utility to get from zero to K
 
 🅸🅽🆂🆃🅰🅽🆃 Kubernetes Cluster using curl ssh kubectl helm k3s k3sup rancher jetstack arkade
 
-```$ wget -O - "https://bit.ly/KubeInstall" | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="YOUR-MASTER-NODE-IP" workerNodes="( ['YOUR-WORKER1-SSH-IP']='YOUR-WORKER1-SSH-USERNAME' ['YOUR-WORKER2-SSH-IP']='YOUR-WORKER2-SSH-USERNAME')" bash```
+```sh <(curl -L https://bit.ly/KubeInstall || wget -O - https://bit.ly/KubeInstall)```
 
 How to add additional worker nodes: workerNodes=( ["YOUR-WORKER1-SSH-IP"]="YOUR-WORKER1-SSH-USERNAME" ["YOUR-WORKER2-SSH-IP"]="YOUR-WORKER2-SSH-USERNAME" ["YOUR-WORKER3-SSH-IP"]="YOUR-WORKER3-SSH-USERNAME" ["YOUR-WORKER4-SSH-IP"]="YOUR-WORKER4-SSH-USERNAME" .... etc)
-
-
-Example: "wget -O - https://bit.ly/KubeInstall | letsEncryptEmail="email@example.com" dashBoardUrl="rancher.example.com" serverNode="192.168.0.1" workerNodes="( ['192.168.1.1']='root' ['192.168.2.1']='root')" bash"
 
 <p align="center"><br /><img width="75%" src="https://w7.pngwing.com/pngs/49/813/png-transparent-kubernetes-ci-cd-helmsman-docker-devops-proposal-angle-auto-part-plugin.png" /><br /></p>
 
