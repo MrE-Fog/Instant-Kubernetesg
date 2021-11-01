@@ -63,7 +63,7 @@ initFunc() {
   echo -e '███████╗███╗░░██╗███████╗░█████╗░░██████╗████████╗\n██╔════╝████╗░██║██╔════╝██╔══██╗██╔════╝╚══██╔══╝\n█████╗░░██╔██╗██║█████╗░░███████║╚█████╗░░░░██║░░░\n██╔══╝░░██║╚████║██╔══╝░░██╔══██║░╚═══██╗░░░██║░░░\n██║░░░░░██║░╚███║██║░░░░░██║░░██║██████╔╝░░░██║░░░\n╚═╝░░░░░╚═╝░░╚══╝╚═╝░░░░░╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░\nK3s Multi-Node Cluster by don Pablo @donPabloNow\n\nRancher Dashboard with Helm and Arkade Package Managers on a K3S bare-metal multi-Cluster using k3sup. The The installation should not take longer than a few minutes and can be re-run if needed, it may also require that you enter the passwords for the various nodes for various stages of the installation.\n'
   echo 'Step 1 of 6 > What email address would you like to register your free Lets Encrypt SSL certificate with? (i.e. YOUR@EMAIL.COM)'
   read letsEncryptEmail
-  echo 'Step 2 of 6 > What address would like to use for your Rancher Dashboard? (i.e. RANCHER.YOUR-DOMAIN.COM)'
+  echo 'Step 2 of 6 > What address would you like to use for your Rancher Dashboard? (i.e. RANCHER.YOUR-DOMAIN.COM)'
   read dashBoardUrl
   echo 'Step 3 of 6 > What is the username of your Master node? (i.e. root)'
   read serverUserNode
