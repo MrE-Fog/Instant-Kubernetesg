@@ -1,4 +1,6 @@
 skipFunc() {
+  command="$1"
+  shift
   if [ $skipStep = true ]; then
     echo 'Would you like to skip this step? (y/n)'
     read skipThisStep
@@ -7,33 +9,33 @@ skipFunc() {
 }
 
 sshFunc() {
-  ssh-keygen -t rsa -N ''
-  for key in "${!workerNodes[@]}"; do runtime=$(ssh-copy-id ${workerNodes[$key]}@$key); done
+  ssh-keygen -t rsa -N '';
+  for key in "${!workerNodes[@]}"; do runtime=$(ssh-copy-id ${workerNodes[$key]})@$key; done
 }
 
 kubectlFunc() {
-  sudo curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-  sudo install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
+  curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+  install -o root -g root -m 0755 kubectl /usr/local/bin/kubectl
 }
 
 helmFunc() {
-  sudo curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
-  sudo chmod 700 get_helm.sh
-  sudo ./get_helm.sh
+  curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
+  chmod 700 get_helm.sh
+  ./get_helm.sh
 }
 
 k3supFunc() {
   curl -sLS https://get.k3sup.dev | sh
-  sudo install k3sup /usr/local/bin/
+  install k3sup /usr/local/bin/
 }
 
 serverNodeFunc() {
-  sudo k3sup install --ip "$serverNode" --user $serverUserNode --merge --local-path "$HOME/.kube/config" --context my-k3s
+  k3sup install --ip "$serverNode" --user $serverUserNode --merge --local-path "$HOME/.kube/config" --context my-k3s
   export KUBECONFIG="$(pwd)/.kube/config"
 }
 
 workerNodesFunc() {
-  for key in "${!workerNodes[@]}"; do runtime=$(sudo k3sup join --ip $key --server-ip $serverNode --user ${workerNodes[$key]}) echo "$key => ${workerNodes[$key]}"; done
+  for key in "${!workerNodes[@]}"; do runtime=$(k3sup join --ip $key --server-ip $serverNode --user ${workerNodes[$key]}) echo "$key => ${workerNodes[$key]}"; done
 }
 
 namespaceFunc() {
@@ -54,7 +56,7 @@ rancherFunc() {
 }
 
 arkadeFunc() {
-  curl -sLS https://get.arkade.dev | sudo sh
+  curl -sLS https://get.arkade.dev | sh
   arkade install --help
   echo 'Details to install additional applications and services are listed above, to access the Rancher dashboard please vist:' $dashBoardUrl
 }
